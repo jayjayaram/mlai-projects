@@ -1,0 +1,5 @@
+README:
+Performance of the classifiers you mentioned (k-nearest neighbors, logistic regression, decision trees, and support vector machines) using a dataset
+The program uses the Iris dataset from scikit-learn library, splits it into training and testing sets, and trains each classifier. 
+It then makes predictions on the testing set and calculates the accuracy score for each classifier. 
+Finally, it prints the accuracy scores for comparison.
